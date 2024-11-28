@@ -1,0 +1,16 @@
+[
+  {
+    "username": "王五",
+    "email": "123",
+    "telephone": "111",
+    "role_name": "很好",
+    "mg_state": "可以"
+  },
+  {
+    "username": "李四",
+    "email": "456",
+    "telephone": "222",
+    "role_name": "很不好",
+    "mg_state": "不可以"
+  }
+]
